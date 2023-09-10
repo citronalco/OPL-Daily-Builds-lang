@@ -348,3 +348,12 @@ translations:
   BGM_VOLUME: Volume da Música de Fundo
   DEF_BGM_PATH: Música do Tema Padrão
   DEF_BGM_PATH_HINT: Defina um caminho para transmitir a música para o tema interno.
+  ELM: Jogos PS1
+  ELMMODE: Modo de início dos Jogos PS1
+  ELM_LAUNCH_POPSTARTER_NOTFOUND: Arquivo POPSTARTER.ELF não encontrado em '%s'!
+  ELM_LAUNCH_VCD_NOTFOUND: O arquivo VCD '%s' não foi encontrado!
+  ELM_RENAME_ERROR: Ocorreu um erro ao renomear o arquivo.
+  ELM_DELETE_ERROR: Ocorreu um erro ao excluir o arquivo.
+  OPL_FREE: 'Nunca compre OPEN-PS2-LOADER (OPL), baixe grátis em:'
+  OPL_IFCARO: psx-place.com, OPL versão ifcaro
+  OPL_DB: ps2-home.com, OPL versão Daily Builds (DB)

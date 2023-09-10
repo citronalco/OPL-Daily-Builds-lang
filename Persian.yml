@@ -447,3 +447,16 @@ translations:
   DEF_BGM_PATH_HINT:
   - untranslated
   - original: Set path to stream music for internal theme.
+  ELM: 1 ﻦﺸﻴﺘﺳا ﻲﻠﭘ یﺎﻫ یزﺎﺑ
+  ELMMODE: 1 ﻦﺸﻴﺘﺳا ﻲﻠﭘ یﺎﻫ یزﺎﺑ ﺶﻳﺎﻤﻧ ﺖﻟﺎﺣ
+  ELM_LAUNCH_POPSTARTER_NOTFOUND:
+  - untranslated
+  - original: POPSTARTER.ELF not found at '%s'!
+  ELM_LAUNCH_VCD_NOTFOUND:
+  - untranslated
+  - original: VCD file '%s' not found!
+  ELM_RENAME_ERROR: .هﺪﻣآ ﺶﻴﭘ ﻲﻠﻜﺸﻣ ﻞﻳﺎﻓ مﺎﻧ ﺮﻴﻴﻐﺗ مﺎﮕﻨﻫ  رد
+  ELM_DELETE_ERROR: .هﺪﻣآ ﺶﻴﭘ ﻲﻠﻜﺸﻣ ﻞﻳﺎﻓ ندﺮﻛ کﺎﭘ مﺎﮕﻨﻫ رد
+  OPL_FREE: :ﺪﻴﻨﻛ ﺖﻓﺎﻳرد نﺎﮕﻳار ار نآ ضﻮﻋ رد ,ﺪﻳﺮﺨﻧ ار )OPL( OPEN-PS2-LOADER ﺰﮔﺮﻫ
+  OPL_IFCARO: psx-place.com رد OPL oracfi ی ﻪﺨﺴﻧ
+  OPL_DB: ps2-home.com رد )DB( OPL ﻪﻧازور ﺖﺧﺎﺳ ی ﻪﺨﺴﻧ

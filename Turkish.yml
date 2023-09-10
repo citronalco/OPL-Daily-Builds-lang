@@ -344,3 +344,18 @@ translations:
   BGM_VOLUME: Fon Müziği Seviyesi
   DEF_BGM_PATH: Varsayılan Tema Müziği
   DEF_BGM_PATH_HINT: Dahili tema için müzik akışı yolunu ayarlayın.
+  ELM: PS1 Oyunları
+  ELMMODE: PS1 Oyunları Ekran Modu
+  ELM_LAUNCH_POPSTARTER_NOTFOUND: POPSTARTER.ELF '%s' de bulunamadı.
+  ELM_LAUNCH_VCD_NOTFOUND: VCD dosyası '%s' bulunamadı!
+  ELM_RENAME_ERROR: Dosya yeniden adlandırılırken bir sorun çıktı.
+  ELM_DELETE_ERROR: Dosya silinirken bir sorun çıktı.
+  OPL_FREE:
+  - untranslated
+  - original: 'Never buy OPEN-PS2-LOADER (OPL), instead get it free at:'
+  OPL_IFCARO:
+  - untranslated
+  - original: ifcaro OPL version at psx-place.com
+  OPL_DB:
+  - untranslated
+  - original: OPL Daily Builds (DB) version at ps2-home.com

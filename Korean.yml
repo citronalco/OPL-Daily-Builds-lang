@@ -328,3 +328,16 @@ translations:
   BGM_VOLUME: 배경 음악 볼륨
   DEF_BGM_PATH: 기본 테마 음악
   DEF_BGM_PATH_HINT: 내부 테마의 음악 스트리밍 경로를 설정합니다.
+  ELM: PS1 게임
+  ELMMODE: PS1 게임 표시 모드
+  ELM_LAUNCH_POPSTARTER_NOTFOUND:
+  - untranslated
+  - original: POPSTARTER.ELF not found at '%s'!
+  ELM_LAUNCH_VCD_NOTFOUND: VCD 파일 '%s' 을(를) 찾을 수 없습니다!
+  ELM_RENAME_ERROR: 파일 이름을 바꾸는 중 오류가 발생했습니다.
+  ELM_DELETE_ERROR:
+  - untranslated
+  - original: An error occurred while deleting the file.
+  OPL_FREE: 'OPEN-PS2-LOADER (OPL)를 구입하지 말고 무료로 받으세요.:'
+  OPL_IFCARO: psx-place.com에서 ifcaro OPL 버전
+  OPL_DB: ps2-home.com에서 OPL Daily Builds (DB) 버전

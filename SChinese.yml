@@ -458,3 +458,12 @@ translations:
   DEF_BGM_PATH_HINT:
   - untranslated
   - original: Set path to stream music for internal theme.
+  ELM: PS1游戏
+  ELMMODE: PS1游戏启动模式
+  ELM_LAUNCH_POPSTARTER_NOTFOUND: POPSTARTER.ELF在'%s'上找不到!
+  ELM_LAUNCH_VCD_NOTFOUND: VCD文件'%s'没有找到!
+  ELM_RENAME_ERROR: 重命名文件时发生错误.
+  ELM_DELETE_ERROR: 删除文件时发生错误.
+  OPL_FREE: 永远不要购买OPEN-PS2-LOADER (OPL)，而是免费获得：
+  OPL_IFCARO: ifcaro OPL 版本从psx-place.com
+  OPL_DB: OPL 日常开发版(DB)从ps2-home.com
